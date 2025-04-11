@@ -13,6 +13,8 @@ class MatheusLima:
         ]
         self.daily_knowledge = [
             "Python",
+            "Power BI",
+            "Excel",
             "SQL",
             "Numpy",
             "Pandas",
